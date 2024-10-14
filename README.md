@@ -15,7 +15,6 @@ Estou cursando o 2º período de Engenharia da Computação.
 ***Linkedin***
 
 <div>
-  <br/>
   <a href="https://www.linkedin.com/in/guilherme-bertelli-80107b307" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
