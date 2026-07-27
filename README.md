@@ -1,4 +1,4 @@
-<h3 align="center">Estou cursando o 2º período de Engenharia da Computação.<h3/>
+<h3 align="center">Estou cursando o 6º período de Engenharia da Computação.<h3/>
 
 <br />
 
